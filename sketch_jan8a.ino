@@ -11,7 +11,7 @@ int relayPin = 3; // Pin untuk relay
 #define RST_PIN 9
 #define SS_PIN 10
 
-String MasterTag = "C3F1DDFC";  // Ganti dengan Tag ID Anda
+String MasterTag = "xxxxxxx";  // Ganti dengan Tag ID Anda
 String tagID = "";
 
 // Create instances
